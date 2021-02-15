@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "RIFAN",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/The-Rifan/THE_RIFAN-WA-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/The-Rifan/THE_RIFAN-WA-BOT/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+"homepage": "https://github.com/The-Rifan/THE_RIFAN-WA-BOT/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
